@@ -20,7 +20,7 @@ Store, view, delete, and search contacts easily from the command line.
 
 Sample interaction in the CLI:
 
-![Password Maneger](https://github.com/Epanacode/Password_manager/blob/main/assets/2025-10-22%2002_03_34-main.py%20-%20Password_manager%20-%20Visual%20Studio%20Code.png?raw=true)
+![Contact manager](https://github.com/Epanacode/Contact_manager/blob/fuck-babe/assets/2025-10-22%2002_20_18-contact-manager.py%20-%20Contact_manager%20-%20Visual%20Studio%20Code.png?raw=true)
 
 
 ---
